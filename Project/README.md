@@ -5,7 +5,7 @@ The system also uses an **RGB LED** and a **Buzzer** to give visual and sound fe
 
 ---
 
-## 🔎 Features
+## Features
 - 📏 **Distance Measurement**: Accurate measurement from 3 cm to 40 cm.  
 - 🖥️ **LCD Display**: Shows live distance readings or "Out of Range".  
 - 🌈 **RGB LED Indicator**:  
@@ -13,7 +13,7 @@ The system also uses an **RGB LED** and a **Buzzer** to give visual and sound fe
   - 🟢 Green → 10–20 cm  
   - 🔵 Blue → 20–30 cm  
   - 🟡 Yellow → 30–40 cm  
-- 🔔 **Buzzer Alert**: Beeps when the object is too close (< 3 cm) or too far (> 40 cm).  
+  - Buzzer Alert**: Beeps when the object is too close (< 3 cm) or too far (> 40 cm).  
 
 ---
 
