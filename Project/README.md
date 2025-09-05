@@ -1,4 +1,4 @@
-# Ultrasonic Distance Project 🚀
+# Ultrasonic Distance Project 
 
 An Arduino project that measures distance using the **HC-SR04 ultrasonic sensor** and displays the result on a **16x2 LCD**.  
 The system also uses an **RGB LED** and a **Buzzer** to give visual and sound feedback about the measured distance.
@@ -23,9 +23,3 @@ The system also uses an **RGB LED** and a **Buzzer** to give visual and sound fe
 3. The LCD displays the measured value or "Out of Range".  
 4. The RGB LED color changes according to the distance range.  
 5. If out of range, the buzzer gives an audible warning.  
-
----
-
-👉 In short:  
-This project is a **distance measuring system** with **LCD output, RGB visual feedback, and buzzer alerts**, perfect for learning Arduino sensors and indicators.
-
